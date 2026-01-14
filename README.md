@@ -1,2 +1,3 @@
 # Data-Analyst-Portfolio
-A collection of end-to-end data analysis projects transforming raw data into insights using SQL, Excel, and Tableau.
+End-to-end data analytics portfolio showcasing business-focused insights using SQL, Excel, and Tableau.
+Designed for junior data analyst roles and remote opportunities.
