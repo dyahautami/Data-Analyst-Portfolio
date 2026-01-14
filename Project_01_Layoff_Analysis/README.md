@@ -1,6 +1,8 @@
 **Global Layoffs Analysis (SQL)**
 
+
 **Objective**
+
 Analyze global layoff trends to understand:
 - Industries most affected by layoffs
 - Countries with the highest layoff numbers
