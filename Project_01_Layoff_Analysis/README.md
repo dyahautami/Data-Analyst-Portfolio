@@ -1,6 +1,5 @@
 **Global Layoffs Analysis (SQL)**
 
-
 **Objective**
 
 Analyze global layoff trends to understand:
